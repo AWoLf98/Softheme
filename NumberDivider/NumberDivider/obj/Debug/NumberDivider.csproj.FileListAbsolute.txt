@@ -1,0 +1,7 @@
+E:\Документи\Softheme\NumberDivider\NumberDivider\bin\Debug\NumberDivider.exe.config
+E:\Документи\Softheme\NumberDivider\NumberDivider\bin\Debug\NumberDivider.exe
+E:\Документи\Softheme\NumberDivider\NumberDivider\bin\Debug\NumberDivider.pdb
+E:\Документи\Softheme\NumberDivider\NumberDivider\obj\Debug\NumberDivider.csprojResolveAssemblyReference.cache
+E:\Документи\Softheme\NumberDivider\NumberDivider\obj\Debug\NumberDivider.csproj.CoreCompileInputs.cache
+E:\Документи\Softheme\NumberDivider\NumberDivider\obj\Debug\NumberDivider.exe
+E:\Документи\Softheme\NumberDivider\NumberDivider\obj\Debug\NumberDivider.pdb
