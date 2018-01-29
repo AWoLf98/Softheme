@@ -1,0 +1,7 @@
+E:\Документи\Softheme\Count\Count\bin\Debug\Count.exe.config
+E:\Документи\Softheme\Count\Count\bin\Debug\Count.exe
+E:\Документи\Softheme\Count\Count\bin\Debug\Count.pdb
+E:\Документи\Softheme\Count\Count\obj\Debug\Count.csprojResolveAssemblyReference.cache
+E:\Документи\Softheme\Count\Count\obj\Debug\Count.csproj.CoreCompileInputs.cache
+E:\Документи\Softheme\Count\Count\obj\Debug\Count.exe
+E:\Документи\Softheme\Count\Count\obj\Debug\Count.pdb
